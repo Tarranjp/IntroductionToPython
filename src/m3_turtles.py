@@ -96,7 +96,7 @@ super_turtle.speed = 50
 super_turtle.left(77)
 super_turtle.forward(96)
 ########################################################################
-# DONE: 4.
+# Done: 4.
 #   The code above  CONSTRUCTS  two SimpleTurtle objects and gives those objects NAMES:
 #       dave    matt
 #
